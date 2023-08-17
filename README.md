@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PranavPawar0/PranavPawar0/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
