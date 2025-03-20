@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with C++ programing language and currently working on C++ projects as well as doing some development also @technology some  that i work on .....</h2>
+<h2 align="left">I specialize in Java programming, actively working on Java projects while exploring development across various technologies. #Technology 🚀</h2>
 
 ###
 
