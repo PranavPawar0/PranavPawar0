@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with C++ programing language and currently working on C++ projects as well as doing some development also @technology some  that i work on .....</h2>
+<h2 align="left">I code with Java programing language and currently working on Java projects as well as doing some development also @technology some that i work on .....</h2>
 
 ###
 
